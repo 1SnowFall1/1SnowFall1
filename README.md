@@ -6,6 +6,8 @@
 
 ![SnowFall GitHub stats](https://github-readme-stats.vercel.app/api?username=1SnowFall1&show_icons=true&theme=dark&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SnowFall1)](https://github.com/1SnowFall1/github-readme-stats)
+
 ## Aprendendo essas Tecnologias
 
 <div style="display: inline_block">
